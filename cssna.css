@@ -1,0 +1,37 @@
+.btn-link:hover {
+  background-color: rgba(32, 33, 36, 0.04) !important;
+}
+.btn-outline-dark {
+  background-color: #fff !important;
+  border: 1px solid #dadce0 !important;
+  color: #202124 !important;
+}
+.btn-outline-primary {
+  background-color: #fff !important;
+  border: 1px solid #dadce0 !important;
+  color: #3740ff !important;
+}
+.btn-outline-dark:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.btn-outline-primary:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.btn-outline-primary {
+  align-items: center;
+  border: none !important;
+}
+.btn-primary {
+  background-color: #3740ff !important;
+}
+.btn-primary:hover {
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14),
+    0 1px 10px 0 rgba(0, 0, 0, 0.12) !important;
+  outline: none;
+  text-decoration: none;
+}
+
+.darkmode--activated .h2,
+.darkmode--activated .p {
+  color: #fff !important;
+}
